@@ -14,5 +14,5 @@ Steps:-
 # To fetch the users who don't follow you back 
 Use the script "insta-unfollower-tracker"
 
-# To fetcg the users whom you dont follow back
-Use the script "insta-following-but-i-dont-follow-back"
+# To fetch the users whom you dont follow back
+Use the script "insta-followers-whom-i-dont-follow-back"
